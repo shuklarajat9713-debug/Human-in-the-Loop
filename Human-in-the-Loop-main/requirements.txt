@@ -1,0 +1,8 @@
+streamlit
+#google-genereativeai
+#PyGitHub
+pandas
+#reportlab
+#pip install -r requirements.txt
+#streamlit run app.py
+#python -m venv venv
